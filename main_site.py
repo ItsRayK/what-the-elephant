@@ -42,7 +42,11 @@ st.markdown("#")
 
 col1, col2, col3 = st.columns(3)
 
+num_jokes_text = st.empty()
+
 joke_text_placeholder = st.empty()
+
+num_jokes_text.markdown(f"<center>{st.session_state['curr_joke']+1}/{len(st.session_state['jokes'].questions)}</center>", unsafe_allow_html=True)
 
 joke_text_placeholder.header(st.session_state['jokes'].questions[st.session_state['curr_joke']], anchor=False)
 
@@ -50,9 +54,11 @@ if col1.button("Back", use_container_width=True):
     if st.session_state['curr_joke'] > 0:
         st.session_state['curr_joke'] -= 1
         joke_text_placeholder.header(st.session_state['jokes'].questions[st.session_state['curr_joke']], anchor=False)
+    num_jokes_text.markdown(f"<center>{st.session_state['curr_joke']+1}/{len(st.session_state['jokes'].questions)}</center>", unsafe_allow_html=True)
 
 if col2.button("Reveal Answer", type="primary", use_container_width=True):
     joke_text_placeholder.header(st.session_state['jokes'].answers[st.session_state['curr_joke']], anchor=False)
+    num_jokes_text.markdown(f"<center>{st.session_state['curr_joke']+1}/{len(st.session_state['jokes'].questions)}</center>", unsafe_allow_html=True)
 
 if col3.button("Next", use_container_width=True):
     if st.session_state['curr_joke'] == len(st.session_state['jokes'].questions) - 1:
@@ -60,5 +66,6 @@ if col3.button("Next", use_container_width=True):
     else:
         st.session_state['curr_joke'] += 1
     joke_text_placeholder.header(st.session_state['jokes'].questions[st.session_state['curr_joke']], anchor=False)
+    num_jokes_text.markdown(f"<center>{st.session_state['curr_joke']+1}/{len(st.session_state['jokes'].questions)}</center>", unsafe_allow_html=True)
 
 #st.session_state

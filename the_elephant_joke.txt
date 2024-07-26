@@ -1,20 +1,74 @@
 >There are 500 bricks on a plane. You throw one out the window. How many are left?
-<499.
+<499 (Explanation: 500 - 1 = 499)
+
+>What's the difference between an elephant and a plum?
+<A plum is purple.
+
+>How can you tell the difference between an elephant and a marshmallow?
+<The elephant won't float when you put it in a mug of hot chocolate.
 
 >How do you put a giraffe in a refrigerator?
 <Open the door, put the giraffe in, and close the door.
 
->So how do you put an elephant in a refrigerator?
+>Why are elephants big, grey, and wrinkled?
+<Because if they were small, white, and smooth they'd be aspirin.
+
+>How do you put an elephant in a refrigerator?
 <You open the door, take the giraffe out, put the elephant in, and close the door.
+
+>Why do elephants wear yellow flip-flops?
+<So they can hide upside-down in a bowl of custard.
+
+>Have you ever seen an elephant in your custard?
+<Exactly.
 
 >Timmy dropped his ice cream. Why?
 <He was startled by the shivering giraffe outside his house.
 
->It was the King of the Jungle's (the lion's) birthday party and all the animals were invited. Once they started cutting the cake they noticed someone was missing. Who?
-<The elephant. He was stuck in the fridge.
+>How many elephants can you fit in a Mini?
+<Four. Two in the front and two in the back of course!
 
->Timmy took a walk in the jungle and stumbled upon a river. There was sign that said "Beware! Alligator Infested Waters!" Timmy swam across safely anyways. How?
+>What did Tarzan say when he saw a herd of elephants in the distance?
+<Look! A herd of elephants in the distance!
+
+>What did Jane say when she saw a herd of elephants in the distance?
+<Look! A herd of plums in the distance. Jane is color blind.
+
+>It was the King of the Jungle's birthday and all of the animals were invited to the party. Once they started cutting the cake they noticed someone was missing. Who?
+<The elephant. He was stuck in the refrigerator.
+
+>How do you put two elephants in a refrigerator?
+<You open the door, put another elephant in the refrigerator, and close the door.
+
+>How do you put three elephants in a refrigerator?
+<Silly goose! Three elephants wouldn't fit in a refrigerator.
+
+>But how do you know there are four elephants in your refrigerator?
+<There's a Mini parked outside.
+
+>Timmy took a walk in the jungle and stumbled upon a river. There was a sign that said "Beware! Alligator Infested Waters!" Timmy swam across safely anyways. How?
 <The alligators were at the party.
 
->Unfortunately, when Timmy got to the other side he died. How?
+>While Timmy was sun bathing on the other side of the river to dry off he died. How?
 <The brick.
+
+>Why did the chicken cross the road?
+<The party ended, so he went home.
+
+>How do you know an elephant has been in your refrigerator?
+<By the footprints in the butter.
+
+>What time is it if you see an elephant in your backyard?
+<Time for a new fence.
+
+>What's the difference between an elephant and a Zippo?
+<One's very heavy and the other's a little lighter.
+
+>How do you know there are five elephants in your refrigerator?
+<There's a dent in the roof of the Mini.
+
+>Why do ducks have flat feet?
+<To stomp out forest fires.
+
+>Why do elephants have flat feet?
+<To stomp out burning ducks.
